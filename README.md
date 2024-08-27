@@ -1,29 +1,6 @@
 # **BANKING CUSTOMER CHURN PREDICTION MODEL**
 
-# **TABLE OF CONTENT**
-
-
-1.  Introduction
-2.  Business Understanding
-1.  Data Understanding
-
-1.  Problem Statement
-2.  Objectives
-
-1.  Data Preparation and Cleaning
-1.  Exploratory Data Analysis
-2.  Data Pre-Processing
-1.  Modelling
-
-1.   Evaluation
-
-1.   Conclusion
-
-1.   Reccomendations
-2.   Next Steps
-
-
-# **INTRODUCTION**
+RODUCTION**
 This dataset contains information about bank customers and their churn status, indicating whether they have exited the bank. It is useful for analyzing factors influencing customer churn and for building predictive models to identify customers at risk of leaving, helping banks enhance customer retention strategies.
 
 
